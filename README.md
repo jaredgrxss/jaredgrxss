@@ -1,2 +1,2 @@
-### Hi there 👋
-Trying to build the future
+### Software Engineer
+trying to build the future
