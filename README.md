@@ -1,2 +1,1 @@
-### Software Engineer
-trying to build the future
+### software engineer trying to build the future
