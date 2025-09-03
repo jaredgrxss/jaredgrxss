@@ -6,4 +6,4 @@ Most of my work is in TypeScript and Ruby, but I also find time to explore other
 
 These things excite me, but in reality it is more about the complexity that comes with each of these problem domains.
 
-Outside of work, I write on my [blog](https://your-blog-link.com) and spend time outdoors and in video games.  
+Outside of work, I write on my [blog](https://emergentblog.substack.com/) and spend time outdoors and in video games.  
